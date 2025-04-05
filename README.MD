@@ -115,16 +115,6 @@ This project aims to use BioAcoustics to learn the patterns of vocalizations of 
 - Firebase Storage for online services
 - Tensorflow ,Keras ,Librosa ,SciPy -- for Deep Learning and Audio Processing
 
-## Featured at 
-
-This project was the result of a 24-hr hackathon conducted by T-Hub,The Nudge Foundation and Google where we bagged the first place amongst 270 teams nationwide and got featured on the news(Deccan Chronicles).
-
-<p align="center" width="100%" >
-  <img src="https://github.com/srikharshashi/cattle-monioring-bioacoustics/assets/37980605/599a56a9-d7fc-4f42-a2e0-b589f1b7f07f" />
-</p>
-
-
-
 ## Datasets
 
 - https://gitlab.com/is-annazam/bovinetalk/-/tree/main/Cattle%20sounds%20database%20(raw%20data)?ref_type=heads
